@@ -16,7 +16,7 @@ A detailed getting started guide can be found at [https://umami.is/docs/](https:
 ### Get the source code and install packages
 
 ```
-git clone https://github.com/mikecao/umami.git
+git clone https://github.com/justinemojal/umami.git
 cd umami
 npm install
 ```
